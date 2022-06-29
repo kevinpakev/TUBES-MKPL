@@ -12,7 +12,7 @@ package jurnal_mod7_1302194007_nkr;
 public class Lingkaran_1302194007 extends BangunDatar_1302194007{
     private int jari_jari;    
     //constructor
-    public Lingkaran_1302194007 (String nama, int jari_jari) {
+    public Lingkaran_1302194007 (String nama,String nama1,String nama2,String nama3,String nama4,String nama5,String nama6,String nama8,String nama10,String nama412,String nama21444,String nama4214, int jari_jari) {
         super(nama);
         this.jari_jari = jari_jari;
     }

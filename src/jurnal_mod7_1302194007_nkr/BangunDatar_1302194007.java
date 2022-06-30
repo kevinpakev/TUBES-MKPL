@@ -24,7 +24,7 @@ public abstract class BangunDatar_1302194007 {
     
     //getter
     public String getNama () {
-        return nama;
+        return nama;;
     }
     
     //abstract rumus

@@ -19,8 +19,6 @@
       <url>https://maven.pkg.github.com/Bagasarfiansyah007/TUBES-MKPL</url>
     </repository>
   </distributionManagement>
-  
-	
 	
   <properties>
      <maven.compiler.source>1.8</maven.compiler.source>
